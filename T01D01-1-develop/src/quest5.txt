@@ -1,0 +1,5 @@
+nano door_management_fi/door_1.conf
+CLOSED -> OPEN
+CTRL+X
+Y
+Enter
